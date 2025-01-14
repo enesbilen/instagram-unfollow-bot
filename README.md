@@ -13,7 +13,7 @@ Bu bot, Instagram hesabınızdaki takip ettiklerinizi otomatik olarak takipten �
 
 1. Repoyu klonlayın:
 ```bash
-git clone https://github.com/yourusername/instagram-unfollow-bot.git
+git clone https://github.com/enesbilen/instagram-unfollow-bot.git
 cd instagram-unfollow-bot
 ```
 
@@ -49,6 +49,6 @@ npm test
 - Instagram'ın günlük takipten çıkarma limitini aşmamaya dikkat edin
 - Tarayıcı penceresini manuel olarak kapatabilirsiniz
 
-## Lisans
+## Screenshots
 
-MIT License
+![Screenshot 1](instagram-unfollow-screen.jpg)
